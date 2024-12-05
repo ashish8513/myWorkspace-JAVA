@@ -2,7 +2,7 @@
 
 Welcome to the Java Code Repository! This repository contains a collection of Java programs, snippets, and projects demonstrating various concepts, algorithms, and applications.
 
-🌟 Features
+🌟 **Features**
 Comprehensive Examples: Covers fundamental and advanced Java concepts.
 
 Well-Structured Code: Organized with clear folder structures and meaningful naming conventions.
